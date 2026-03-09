@@ -1,0 +1,23 @@
+```
+# Scan Reports — contain sensitive network data
+reports/
+*.txt
+*.html
+*.json
+
+# Scan History Database — contains sensitive scan data
+scan_history.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.save
+*.swp
+*.swo
