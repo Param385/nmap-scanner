@@ -165,4 +165,4 @@ Unauthorized scanning is **illegal** and unethical.
 ## 👤 Author
 
 **Param**
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+[LinkedIn](www.linkedin.com/in/paramjeetkaurpk123) | [GitHub](https://github.com/Param385)
