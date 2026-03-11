@@ -53,7 +53,7 @@ Designed for security professionals, students, and anyone preparing for a cybers
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOURUSERNAME/nmap-scanner.git
+git clone https://github.com/Param385/nmap-scanner.git
 cd nmap-scanner
 ```
 
